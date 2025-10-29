@@ -425,4 +425,91 @@ The session concludes with a summary slide reinforcing the essential principles 
 
 ---
 
+# AI-Powered Coding: Empowering the Next-Gen Software Engineer
+
+**Speaker:** Adrian Cayaco  
+**Event:** SOFTCON 2025  
+**Theme:** Agentic Ignition – Powering the Future of Software  
+**Topic:** Exploring how AI tools reshape the role, mindset, and skills of modern software engineers.
+
+---
+
+## Overview
+
+This session examines the **impact of AI on software engineering**, focusing on how AI tools like copilots can serve as both **amplifiers and crutches** in the modern development workflow.  
+The presentation is organized into four main parts:
+
+1. Current Software Development Landscape  
+2. The Modern Software Engineer  
+3. AI and Copilots: Crutch or Amplifier?  
+4. Self-Checklist for the Software Engineer in the AI Era  
+
+---
+
+## Core Competencies of a Modern Software Engineer
+
+A radar chart in the presentation defines **five key competencies** that shape the foundation of an effective engineer:
+
+| # | Competency | Description |
+|---|-------------|--------------|
+| (01) | **Communication** | Sharing ideas clearly and collaborating effectively. |
+| (02) | **Critical Thinking** | Analyzing information and making sound, logical judgments. |
+| (03) | **Fundamental Coding** | Applying core programming concepts and logic. |
+| (04) | **Problem Solving** | Identifying issues and designing practical solutions. |
+| (05) | **System Design** | Structuring scalable, maintainable, and efficient systems. |
+
+---
+
+## AI and Copilots: Crutch or Amplifier?
+
+The presentation explores the **dual nature** of AI-assisted coding tools, questioning whether they enhance or hinder a developer’s growth.
+
+### Benefits (So Far?)
+| Benefit Category | Examples |
+|------------------|-----------|
+| **Increased Productivity** | Code generation, autocompletion, debugging assistance |
+| **Reduced Repetitive Tasks** | Automating documentation, updating boilerplate, and template creation |
+| **Learning and Exploration** | Aiding in learning new programming languages |
+
+### Potential Pitfalls
+| Risk | Description |
+|------|--------------|
+| **Over-reliance and Deskilling** | Raises the question: “Can you code without the internet?” |
+| **Lack of Understanding** | Engineers may fail to grasp how AI-generated code works. |
+| **Error and Vulnerability Propagation** | Risk of introducing flawed or insecure patterns into production code. |
+
+---
+
+## Self-Checklist for the Software Engineer in the AI Era
+
+The session concludes with a **two-part self-assessment checklist**, encouraging engineers to reflect on their skills and their relationship with AI tools.
+
+### 1. Assessing Your Skills
+
+- Can I solve this problem **without** any copilots or AI assistants?  
+- Do I **understand** the code that was AI-generated?  
+- Can I **debug and modify** AI-generated code effectively?  
+- Am I **actively learning** new concepts, or just relying on the AI for answers?  
+- Do I still **reason through problems**, or jump straight to the AI for solutions?  
+
+---
+
+### 2. Assessing Tool Effectiveness
+
+- Is this tool genuinely **saving me time** on meaningful tasks?  
+- Is it helping me **learn or explore** new areas?  
+- Am I maintaining a **deep understanding** of the project and codebase?  
+- Is the AI encouraging me to **think more critically**, or less?  
+- Am I **validating and testing** AI-generated outputs effectively?  
+
+---
+
+## Key Takeaways
+
+- AI-powered tools can **amplify productivity** but risk **deskilling engineers** if used without awareness.  
+- A strong engineering foundation in **communication, reasoning, and problem-solving** remains essential.  
+- Regularly assessing both **personal competence** and **tool effectiveness** ensures a balanced relationship between human and machine intelligence.  
+- The future of software development depends on engineers who let AI **enhance—not replace—their critical thinking and craftsmanship.**
+
+---
 
