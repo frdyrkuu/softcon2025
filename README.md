@@ -112,8 +112,7 @@ The agenda covers:
 - The Agentic Shift  
 - Agentic AI Concepts  
 - The watsonx Orchestrate  
-- Use-case Demonstration  
-- Q&A  
+- Use-case Demonstration
 
 ---
 
