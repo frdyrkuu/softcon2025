@@ -76,7 +76,6 @@
   - [🔑 Key Takeaways](#key-takeaways)
   - [🏁 Conclusion](#conclusion)
 
-
 # Building the Future of Work: NVIDIA's Agentic AI Platform for Organizational Transformation
 
 **Speaker:** Hariharan Suresh  
