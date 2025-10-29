@@ -1,3 +1,8 @@
+<h1 align="center">
+  SOFTCON 2025
+</h1>
+
+
 # Table of Contents
 
 - [Building the Future of Work: NVIDIA's Agentic AI Platform for Organizational Transformation](#building-the-future-of-work-nvidias-agentic-ai-platform-for-organizational-transformation)
