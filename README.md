@@ -96,3 +96,122 @@ The session concludes by showing the **path from prototype to production** using
 - NVIDIA’s ecosystem bridges the gap from **prototype experimentation** to **enterprise-grade production**.
 
 ---
+
+# Beyond Chatbots: Unlocking the Power of Agentic AI with watsonx Orchestrate
+
+**Speakers:** Joyson Barrago & Tristan Mahinay  
+**Event:** SOFTCON 2025  
+**Topic:** Exploring the shift from traditional chatbots to Agentic AI using IBM’s watsonx Orchestrate.
+
+---
+
+## Overview
+
+This session introduces **Agentic AI** as a significant evolution beyond traditional AI models and chatbots.  
+The agenda covers:
+- The Agentic Shift  
+- Agentic AI Concepts  
+- The watsonx Orchestrate  
+- Use-case Demonstration  
+- Q&A  
+
+---
+
+## The Agentic Shift
+
+The presentation positions Agentic AI as the **third stage** in the evolution of artificial intelligence:
+
+| Stage | Description |
+|--------|--------------|
+| **Models** | AI that can **generate** for you |
+| **Assistants** | AI that can **chat** for you |
+| **Agents** | AI that can **do** for you |
+
+Unlike Assistants—described as **feed-forward systems**—Agents are powered by a **think–act–observe loop**, allowing them to **adapt to real-time data** within a feedback system.
+
+---
+
+## Core Components of AI Agents
+
+Agentic AI is defined by three primary components:
+
+1. **Perception**  
+   The agent *senses* its environment through inputs such as:
+   - User prompts  
+   - Website data  
+   - Database information  
+
+2. **Planning & Reasoning**  
+   Acts as the *brain* of the agent by:
+   - Breaking down large tasks  
+   - Finding optimal solutions  
+   - Deciding appropriate actions  
+
+3. **Action**  
+   The agent executes plans using various tools, such as:
+   - Web browsers  
+   - Applications or APIs  
+
+A diagram titled **“What are AI Agents”** illustrates this ecosystem — showing an **AI Agent** capable of:
+- **Task Delegation**  
+- **Autonomous Actions**  
+- Interaction with **Tools**, **Memory**, and **Protocols** (e.g., MCP)  
+- Involvement of a **Human in the Loop**
+
+---
+
+## Traditional Generative AI vs. Agentic AI
+
+The session contrasts traditional assistants with agentic systems through an example on **personal loan queries**:
+
+| Approach | Description | Example Query | Result |
+|-----------|--------------|----------------|--------|
+| **Traditional Gen AI** | Uses an LLM and knowledge base to provide direct responses. | “What are common types of personal loans?” | Lists secured and unsecured loans. |
+| **Agentic AI** | Uses orchestrated agents for complex, data-driven reasoning. | “Which personal loan options offer the best interest rates and repayment flexibility for individuals with a credit score below 650?” | Coordinates multiple agents (Product Research, Credit Risk, Compliance) to generate a synthesized, specific response (e.g., “Credit union loans with 8–12% APR”). |
+
+---
+
+## Key Concepts and Enabling Technologies
+
+### Tools (Function Calling)
+The ability of an AI system to **invoke external functions, APIs, or services** beyond its model parameters.  
+Example: A model calls a **Flight API** to answer a question about an upcoming flight.
+
+---
+
+### Vector Store / Knowledgebases
+A **specialized database** that stores and manages data as **vectors** to represent semantic meaning.  
+This allows the AI to:
+- Retrieve **contextually relevant information**, not just keyword matches.  
+- **Augment model responses** with factual and up-to-date data.
+
+---
+
+### Model Context Protocol (MCP)
+An **open standard** that simplifies how AI models **connect and interact** with external data sources and tools.  
+It serves as a **universal adapter** to solve the “M × N” integration problem—removing the need for custom connections for each tool.
+
+---
+
+## Agentic AI Patterns
+
+The session introduces four common **Agentic AI design patterns**, each representing a unique reasoning and execution approach:
+
+| Pattern | Description |
+|----------|--------------|
+| **Reflect** | Processes a user query via an LLM that refines the request into a more precise **Reflected Response**. |
+| **ReAct** | Combines **Reasoning** and **Acting**, where an agent uses tools and interacts with its environment to achieve goals. |
+| **Tool Pattern** | Uses **Tool Calling** to access a **Tool Database**, then synthesizes results to form the final response. |
+| **Multi-agent Pattern** | A **Manager Agent** coordinates multiple **Sub-agents** (e.g., News Agent, Subreddit Agent, Mirror Agent) to produce a comprehensive or “scenic” response. |
+
+---
+
+## Key Takeaways
+
+- **Agentic AI** marks a shift from chat-based systems to autonomous, action-driven intelligence.  
+- It integrates **perception, reasoning, and action** to operate flexibly within real-world environments.  
+- **watsonx Orchestrate** demonstrates how multi-agent collaboration and orchestration can deliver more intelligent, contextual, and data-backed results.  
+- Core technologies like **function calling**, **vector stores**, and **MCP** make these systems modular, adaptable, and extensible.
+
+---
+
