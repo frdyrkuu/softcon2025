@@ -304,4 +304,125 @@ The presentation concludes with a forward-looking message:
 
 ---
 
+# Building a Reliable Deployment Pipeline: Don't Let Tests Break Your Pipeline
+
+**Speaker:** Mesut Durukal  
+**Event:** SOFTCON 2025  
+**Topic:** Establishing robust, secure, and reliable CI/CD pipelines through effective testing, quality control, and deployment practices.
+
+---
+
+## Overview
+
+This session delivers a comprehensive guide on **building a reliable development pipeline**, emphasizing **automation, testing discipline, and quality assurance** as critical components for software delivery success.
+
+The presentation introduces the key focus areas:
+- **Robustness**
+- **Security**
+- **Reliability**
+
+---
+
+## Automation Paradise: The Ideal Pipeline
+
+A central diagram titled **“Automation Paradise”** outlines an end-to-end **development and deployment pipeline** designed for stability and continuous improvement.
+
+### Pipeline Flow:
+
+1. **CODE**  
+   - Examples: Spring, Python, etc.  
+   - Stored in a **REPO** such as GitLab or GitHub.
+
+2. **PIPELINE RUNNER**  
+   - Executes within **Containers** (e.g., Docker).
+
+3. **STATIC ANALYSIS**  
+   - Tools: **SonarQube** and similar for code quality assessment.
+
+4. **BUILD**  
+   - Tools: **Gradle**, **Maven**, etc.
+
+5. **DYNAMIC ANALYSIS (Test Pyramid)**  
+   - Frameworks: **Cypress**, **Selenium**, **Playwright**, **RestAssured**  
+   - Ensures comprehensive testing coverage across multiple layers.
+
+6. **DEPLOYMENT**  
+   - Environments: **Staging → QA → Production**
+
+7. **MONITORING**  
+   - Tools: **Kibana**, **Grafana**, **Datadog**
+
+---
+
+## The Test Pyramid vs. the Ice-Cream Cone Anti-Pattern
+
+The session warns against the **“Ice-Cream Cone Anti-Pattern”**, characterized by heavy reliance on manual testing and weak automation layers.
+
+### Proper Test Pyramid Structure:
+| Layer | Focus | Type |
+|--------|--------|------|
+| **Top** | Few End-to-End Tests | UI / Functional |
+| **Middle** | Moderate Integration Tests | System / Service |
+| **Bottom** | Broad Unit Tests | Automated / Fast |
+
+> “The pyramid should be built properly” — with strong foundations in **automated unit tests** and balanced integration testing.
+
+---
+
+## Common Pipeline Failures
+
+### 1. Weak Quality Gates  
+- Illustrated as a faulty **security barrier**.  
+- Represents inadequate validation steps that allow poor-quality code to progress through the pipeline.
+
+### 2. Test Smells  
+Defined using a table comparing **Test Reports (PASS/FAIL)** against the **actual feature state (Issue/No Issue):**
+
+| Test Report | Actual Feature | Outcome |
+|--------------|----------------|----------|
+| **Fail** | **No Issue** | False Alarm |
+| **Pass** | **Issue Exists** | Silent Horror |
+
+These scenarios highlight the risk of unreliable tests that distort the true health of the system.
+
+---
+
+## Safe Deployment Practices
+
+To prevent production disruptions, the session recommends adopting **safe deployment strategies**, including:
+
+- **Feature Flags / Toggles**  
+  - Gradually release new features to selected users.  
+  - Roll out updates safely without impacting all consumers.  
+
+- **Traffic Routing**  
+  - Use routers to **direct user traffic** between the **current production app** and the **newly deployed version**.
+
+---
+
+## Summary of Key Concepts
+
+The session concludes with a summary slide reinforcing the essential principles of pipeline reliability:
+
+- **Tooling**
+- **Shift Right and Left** (test early and monitor continuously)
+- **Unit & Integration Tests**
+- **Quality Gates**
+- **Test Smells**
+- **Safe Deployment**
+- **Time Analysis**
+- **Monitoring**
+
+---
+
+## Key Takeaways
+
+- Build pipelines that prioritize **automation, quality, and observability**.  
+- Maintain a **balanced test pyramid** to avoid fragile, manual-heavy processes.  
+- Establish **strong quality gates** and actively monitor test reliability.  
+- Use **feature flags and safe deployment patterns** to minimize release risk.  
+- Continuously monitor performance and stability with analytics tools.
+
+---
+
 
