@@ -1,3 +1,22 @@
+# Table of Contents
+- [Building the Future of Work: NVIDIA's Agentic AI Platform for Organizational Transformation](#building-the-future-of-work-nvidias-agentic-ai-platform-for-organizational-transformation)
+  - [Overview](#overview)
+  - [NVIDIA NIM (NVIDIA Inference Microservice)](#nvidia-nim-nvidia-inference-microservice)
+  - [Llama Nemotron: Advanced Agentic Reasoning Models](#llama-nemotron-advanced-agentic-reasoning-models)
+  - [NVIDIA NeMo Agent Toolkit](#nvidia-nemo-agent-toolkit)
+  - [AI-Q (Pronounced “IQ”) NVIDIA Blueprint](#ai-q-pronounced-iq-nvidia-blueprint)
+  - [From Prototype to Production](#from-prototype-to-production)
+  - [Key Takeaways](#key-takeaways)
+- [Beyond Chatbots: Unlocking the Power of Agentic AI with watsonx Orchestrate](#beyond-chatbots-unlocking-the-power-of-agentic-ai-with-watsonx-orchestrate)
+  - [Overview](#overview-1)
+  - [The Agentic Shift](#the-agentic-shift)
+  - [Core Components of AI Agents](#core-components-of-ai-agents)
+  - [Traditional Generative AI vs. Agentic AI](#traditional-generative-ai-vs-agentic-ai)
+  - [Key Concepts and Enabling Technologies](#key-concepts-and-enabling-technologies)
+  - [Agentic AI Patterns](#agentic-ai-patterns)
+  - [Key Takeaways](#key-takeaways-1)
+
+
 # Building the Future of Work: NVIDIA's Agentic AI Platform for Organizational Transformation
 
 **Speaker:** Hariharan Suresh  
