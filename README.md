@@ -214,3 +214,94 @@ The session introduces four common **Agentic AI design patterns**, each represen
 
 ---
 
+# Agents of Change: Building Intelligent Software That Works for You
+
+**Speaker:** Allan Mangune  
+**Event:** SOFTCON 2025  
+**Theme:** Agentic Ignition – Powering the Future of Software  
+**Topic:** Understanding the anatomy of AI agents and their real-world application.
+
+---
+
+## Overview
+
+This session defines the **core components of an AI Agent** and demonstrates how they can be applied in intelligent, automated workflows.  
+The presentation explores how modern agents combine reasoning, memory, perception, and action within a continuous feedback loop to create **AI-driven software systems**.
+
+---
+
+## Anatomy of an AI Agent
+
+The **Anatomy of an AI Agent** is presented through five essential components:
+
+| Component | Description |
+|------------|--------------|
+| **Brain (Reasoning Engine)** | The central system responsible for interpreting data and making decisions. |
+| **Memory** | Stores previous information, enabling context-aware reasoning and continuity. |
+| **Perception (APIs, Events)** | Allows the agent to sense and receive input from external sources or events. |
+| **Action (Tools, Services)** | Executes operations and interacts with tools or applications to fulfill tasks. |
+| **Feedback Loop** | Continuously evaluates results and refines future actions. |
+
+---
+
+## Demonstrations
+
+The session features a **multi-stage demo** showcasing the reasoning and visualization capabilities of AI agents.
+
+### Demo Stage 3 – Reasoning
+This stage demonstrates **natural language reasoning** applied to structured financial data.  
+An example prompt:  
+> “Is this stock beautiful? Explain why.”
+
+Here, the agent uses **ChatGPT** to analyze data points such as:
+- Revenue  
+- Margins  
+- Debt  
+- Returns  
+
+The model then produces a **clear verdict and plain-English explanation**, showing how agents interpret complex data logically.
+
+---
+
+### Demo Stage 4 – Visualization
+In this stage, the agent:
+- **Converts data into visuals and metrics automatically**  
+- **Eliminates manual reporting and chart creation**  
+
+This automation highlights how AI can streamline data interpretation and business intelligence workflows.
+
+---
+
+## Demo Reflection
+
+The session summarizes the demo process under the concept of **Agent Orchestration**, following the pattern:
+
+plan → act → evaluate
+
+
+This framework is adaptable across multiple domains, including:
+- Human Resources (HR)  
+- Finance  
+- Analytics  
+
+---
+
+## Key Message
+
+The presentation concludes with a forward-looking message:
+
+> “The future isn't just AI-powered — it's AI-driven.”  
+> “Start small, automate one process, and let software think for you.”
+
+---
+
+## Key Takeaways
+
+- AI Agents are built from five interconnected components: **Reasoning, Memory, Perception, Action, and Feedback.**  
+- The **plan–act–evaluate** pattern defines agent orchestration across industries.  
+- Automated reasoning and visualization can replace traditional manual workflows.  
+- The shift toward **AI-driven software** encourages organizations to begin with small, focused automation efforts.
+
+---
+
+
