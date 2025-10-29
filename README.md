@@ -56,25 +56,25 @@
     - [1. Assessing Your Skills](#1-assessing-your-skills)
     - [2. Assessing Tool Effectiveness](#2-assessing-tool-effectiveness)
   - [Key Takeaways](#key-takeaways)
-- [🧠 Introduction to Genkit AI  ](#introduction-to-genkit-ai)
-  - [📘 Overview](#overview)
-  - [💡 What is Genkit?](#what-is-genkit)
-  - [🏗️ Origin and Evolution](#origin-and-evolution)
-  - [⚙️ Core Features That Set Genkit Apart](#core-features-that-set-genkit-apart)
-  - [👨‍💻 Developer Experience and Tooling](#developer-experience-and-tooling)
-    - [🔑 Key Developer Features](#key-developer-features)
-    - [🧰 Developer-Centric Tools](#developer-centric-tools)
-  - [🧩 Example Use Cases Demonstrated](#example-use-cases-demonstrated)
-  - [🚀 Getting Started with Genkit](#getting-started-with-genkit)
-    - [🪜 Setup Steps](#setup-steps)
-  - [☁️ Deployment with Firebase](#deployment-with-firebase)
+- [ Introduction to Genkit AI  ](#introduction-to-genkit-ai)
+  - [ Overview](#overview)
+  - [ What is Genkit?](#what-is-genkit)
+  - [ Origin and Evolution](#origin-and-evolution)
+  - [ Core Features That Set Genkit Apart](#core-features-that-set-genkit-apart)
+  - [‍ Developer Experience and Tooling](#developer-experience-and-tooling)
+    - [ Key Developer Features](#key-developer-features)
+    - [ Developer-Centric Tools](#developer-centric-tools)
+  - [ Example Use Cases Demonstrated](#example-use-cases-demonstrated)
+  - [ Getting Started with Genkit](#getting-started-with-genkit)
+    - [ Setup Steps](#setup-steps)
+  - [ Deployment with Firebase](#deployment-with-firebase)
     - [Steps:](#steps)
-  - [💼 Real-World Use Cases Powered by Genkit](#real-world-use-cases-powered-by-genkit)
-  - [⚖️ Genkit vs LangChain](#genkit-vs-langchain)
-    - [✅ When to Use Genkit](#when-to-use-genkit)
-  - [🧮 Summary Formula](#summary-formula)
-  - [🔑 Key Takeaways](#key-takeaways)
-  - [🏁 Conclusion](#conclusion)
+  - [ Real-World Use Cases Powered by Genkit](#real-world-use-cases-powered-by-genkit)
+  - [ Genkit vs LangChain](#genkit-vs-langchain)
+    - [ When to Use Genkit](#when-to-use-genkit)
+  - [ Summary Formula](#summary-formula)
+  - [ Key Takeaways](#key-takeaways)
+  - [ Conclusion](#conclusion)
 
 # Building the Future of Work: NVIDIA's Agentic AI Platform for Organizational Transformation
 
@@ -591,7 +591,7 @@ The session concludes with a **two-part self-assessment checklist**, encouraging
 
 ---
 
-# 🧠 Introduction to Genkit AI  
+#  Introduction to Genkit AI  
 **(Also titled: Dive with Genkit AI)**  
 
 **Speaker:** Seiji Villafranca  
@@ -601,14 +601,14 @@ The session concludes with a **two-part self-assessment checklist**, encouraging
 
 ---
 
-## 📘 Overview
+##  Overview
 
 This session introduces **Genkit**, described as **“Google’s Open-Source Framework for Building AI-Powered Applications.”**  
 It covers Genkit’s origins, architecture, and practical applications, focusing on how it simplifies AI app development through unified APIs, multimodal support, and developer-centric tooling.
 
 ---
 
-## 💡 What is Genkit?
+##  What is Genkit?
 
 Genkit is summarized by three defining principles:
 
@@ -618,7 +618,7 @@ Genkit is summarized by three defining principles:
 
 ---
 
-## 🏗️ Origin and Evolution
+##  Origin and Evolution
 
 The presentation outlines *“The Origin Story: From Firebase Genkit to Genkit.”*  
 Originally launched as **Firebase Genkit** in 2024, the framework expanded and evolved into a more flexible and scalable solution.
@@ -631,7 +631,7 @@ Originally launched as **Firebase Genkit** in 2024, the framework expanded and e
 
 ---
 
-## ⚙️ Core Features That Set Genkit Apart
+##  Core Features That Set Genkit Apart
 
 | Feature | Description |
 |----------|-------------|
@@ -641,17 +641,17 @@ Originally launched as **Firebase Genkit** in 2024, the framework expanded and e
 
 ---
 
-## 👨‍💻 Developer Experience and Tooling
+## ‍ Developer Experience and Tooling
 
 Genkit emphasizes developer productivity and simplified AI workflow management.
 
-### 🔑 Key Developer Features
+###  Key Developer Features
 
 - **API Abstraction** – Provides a consistent API that unifies various AI model interfaces.  
 - **Smart Handling** – Manages structured outputs, context passing, and error recovery.  
 - **Production Monitoring** – Includes built-in dashboards for latency, performance, and error tracking.
 
-### 🧰 Developer-Centric Tools
+###  Developer-Centric Tools
 
 | Tool / Capability | Description |
 |--------------------|-------------|
@@ -661,7 +661,7 @@ Genkit emphasizes developer productivity and simplified AI workflow management.
 
 ---
 
-## 🧩 Example Use Cases Demonstrated
+##  Example Use Cases Demonstrated
 
 The session presented several code-based examples that highlight Genkit’s versatility:
 
@@ -671,11 +671,11 @@ The session presented several code-based examples that highlight Genkit’s vers
 
 ---
 
-## 🚀 Getting Started with Genkit
+##  Getting Started with Genkit
 
 The session provided a quick setup guide demonstrating how easy it is to get started with Genkit.
 
-### 🪜 Setup Steps
+###  Setup Steps
 
 1. **Install Genkit**
    ```bash
@@ -695,7 +695,7 @@ The session provided a quick setup guide demonstrating how easy it is to get sta
 
 ---
 
-## ☁️ Deployment with Firebase
+##  Deployment with Firebase
 
 Deployment was demonstrated using **Firebase Functions**, showcasing how Genkit integrates with existing cloud workflows.
 
@@ -713,7 +713,7 @@ Deployment was demonstrated using **Firebase Functions**, showcasing how Genkit 
 
 ---
 
-## 💼 Real-World Use Cases Powered by Genkit
+##  Real-World Use Cases Powered by Genkit
 
 | Use Case | Description |
 |-----------|-------------|
@@ -723,7 +723,7 @@ Deployment was demonstrated using **Firebase Functions**, showcasing how Genkit 
 
 ---
 
-## ⚖️ Genkit vs LangChain
+##  Genkit vs LangChain
 
 | Comparison | **Genkit** | **LangChain** |
 |-------------|-------------|---------------|
@@ -731,7 +731,7 @@ Deployment was demonstrated using **Firebase Functions**, showcasing how Genkit 
 | **Integration** | Deeply integrated with **Firebase** and **Google Cloud**. | Broad, flexible ecosystem integration. |
 | **Developer Tools** | Visual debugging, typing, and unified APIs. | Extensive ecosystem but less opinionated tooling. |
 
-### ✅ When to Use Genkit
+###  When to Use Genkit
 Use Genkit for:
 - Rapid prototyping of AI solutions  
 - Multi-modal (text, image, data) applications  
@@ -740,13 +740,13 @@ Use Genkit for:
 
 ---
 
-## 🧮 Summary Formula
+##  Summary Formula
 
 > **Genkit = LangChain + Firebase + Strong Typing + Visual Debugging + Google Cloud Integration**
 
 ---
 
-## 🔑 Key Takeaways
+##  Key Takeaways
 
 - **Genkit** unifies AI model access under a single, developer-friendly API.  
 - It provides a **production-ready** foundation for building multimodal and agentic AI applications.  
@@ -755,7 +755,7 @@ Use Genkit for:
 
 ---
 
-## 🏁 Conclusion
+##  Conclusion
 
 The session emphasizes that Genkit represents the next evolution of AI development frameworks — bridging simplicity, flexibility, and production reliability.  
 By combining unified APIs, agentic workflows, and rich developer tooling, Genkit empowers developers to **build smarter, faster, and more scalable AI-powered applications.**
