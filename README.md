@@ -513,3 +513,171 @@ The session concludes with a **two-part self-assessment checklist**, encouraging
 
 ---
 
+# 🧠 Introduction to Genkit AI  
+**(Also titled: Dive with Genkit AI)**  
+
+**Speaker:** Seiji Villafranca  
+**Event:** SOFTCON 2025  
+**Theme:** *Agentic Ignition – Powering the Future of Software*  
+**Topic:** Building AI-powered applications using Google's open-source Genkit framework.
+
+---
+
+## 📘 Overview
+
+This session introduces **Genkit**, described as **“Google’s Open-Source Framework for Building AI-Powered Applications.”**  
+It covers Genkit’s origins, architecture, and practical applications, focusing on how it simplifies AI app development through unified APIs, multimodal support, and developer-centric tooling.
+
+---
+
+## 💡 What is Genkit?
+
+Genkit is summarized by three defining principles:
+
+1. **Built by Google** – An open-source framework that has been battle-tested in production environments.  
+2. **Rapid Development** – Speeds up the creation of full-stack AI applications.  
+3. **Unified Interface** – Seamlessly integrates AI models from multiple providers through a consistent, elegant API.
+
+---
+
+## 🏗️ Origin and Evolution
+
+The presentation outlines *“The Origin Story: From Firebase Genkit to Genkit.”*  
+Originally launched as **Firebase Genkit** in 2024, the framework expanded and evolved into a more flexible and scalable solution.
+
+| Year | Phase | Description |
+|------|--------|-------------|
+| **2024 (Early)** | **Firebase Genkit** | Introduced for JavaScript and TypeScript developers. |
+| **2024 (Mid)** | **Language Expansion** | Added support for Go and Python. |
+| **2025 (Rebrand)** | **Genkit** | Rebranded with enhanced features and a broader vision for AI development. |
+
+---
+
+## ⚙️ Core Features That Set Genkit Apart
+
+| Feature | Description |
+|----------|-------------|
+| **Unified AI Model Access** | Connect to multiple AI providers (e.g., **Google Gemini**, **OpenAI GPT-4**, **Anthropic Claude**) using a single API. |
+| **Multimodal Content Support** | Handle text, images, structured data, and tool-calling workflows. |
+| **Agentic Workflows** | Build multi-step AI processes using *flows* to orchestrate reasoning and actions. |
+
+---
+
+## 👨‍💻 Developer Experience and Tooling
+
+Genkit emphasizes developer productivity and simplified AI workflow management.
+
+### 🔑 Key Developer Features
+
+- **API Abstraction** – Provides a consistent API that unifies various AI model interfaces.  
+- **Smart Handling** – Manages structured outputs, context passing, and error recovery.  
+- **Production Monitoring** – Includes built-in dashboards for latency, performance, and error tracking.
+
+### 🧰 Developer-Centric Tools
+
+| Tool / Capability | Description |
+|--------------------|-------------|
+| **Rich Local Environment** | Allows local flow testing and debugging. |
+| **Flexible Deployment** | Deploy seamlessly to **Firebase Functions** or **Google Cloud Run**. |
+| **Genkit Developer UI** | Offers a *Visual Development Environment* for flow visualization and model testing. |
+
+---
+
+## 🧩 Example Use Cases Demonstrated
+
+The session presented several code-based examples that highlight Genkit’s versatility:
+
+- **Simple Chatbot Flow** – A conversational flow using connected LLMs.  
+- **Structured Data Extraction** – Extracts and returns data in a JSON format using predefined schemas.  
+- **Image Analysis Flow** – Interprets and analyzes uploaded images to produce structured results.
+
+---
+
+## 🚀 Getting Started with Genkit
+
+The session provided a quick setup guide demonstrating how easy it is to get started with Genkit.
+
+### 🪜 Setup Steps
+
+1. **Install Genkit**
+   ```bash
+   npm i -g genkit
+   ```
+
+2. **Initialize Your Project**
+   ```bash
+   genkit init
+   ```
+
+3. **Connect AI Models**  
+   Integrate providers such as **Google Gemini** or **OpenAI GPT-4** through plugins.
+
+4. **Build & Deploy Flows**  
+   Create AI workflows (called *flows*) and deploy them as HTTP endpoints.
+
+---
+
+## ☁️ Deployment with Firebase
+
+Deployment was demonstrated using **Firebase Functions**, showcasing how Genkit integrates with existing cloud workflows.
+
+### Steps:
+1. **Setup Firebase Project**
+   ```bash
+   firebase init functions
+   ```
+2. **Configure Functions**
+   - Update configuration in your `firebase.json` file.
+3. **Deploy Flows**
+   ```bash
+   firebase deploy
+   ```
+
+---
+
+## 💼 Real-World Use Cases Powered by Genkit
+
+| Use Case | Description |
+|-----------|-------------|
+| **Intelligent Chatbots** | Builds retrieval-augmented conversational systems. |
+| **Smart Recommendations** | Generates intelligent recommendation engines. |
+| **Data Intelligence** | Converts natural language queries into structured database operations. |
+
+---
+
+## ⚖️ Genkit vs LangChain
+
+| Comparison | **Genkit** | **LangChain** |
+|-------------|-------------|---------------|
+| **Focus** | Full-stack framework for multimodal AI apps. | Orchestration framework for LLMs, agentic workflows, and RAG. |
+| **Integration** | Deeply integrated with **Firebase** and **Google Cloud**. | Broad, flexible ecosystem integration. |
+| **Developer Tools** | Visual debugging, typing, and unified APIs. | Extensive ecosystem but less opinionated tooling. |
+
+### ✅ When to Use Genkit
+Use Genkit for:
+- Rapid prototyping of AI solutions  
+- Multi-modal (text, image, data) applications  
+- Complex agentic workflows  
+- Projects needing strong typing and Google Cloud deployment
+
+---
+
+## 🧮 Summary Formula
+
+> **Genkit = LangChain + Firebase + Strong Typing + Visual Debugging + Google Cloud Integration**
+
+---
+
+## 🔑 Key Takeaways
+
+- **Genkit** unifies AI model access under a single, developer-friendly API.  
+- It provides a **production-ready** foundation for building multimodal and agentic AI applications.  
+- Offers **visual debugging**, **monitoring dashboards**, and **integrations** with Google Cloud.  
+- Streamlines both **rapid prototyping** and **enterprise-grade AI deployment**.  
+
+---
+
+## 🏁 Conclusion
+
+The session emphasizes that Genkit represents the next evolution of AI development frameworks — bridging simplicity, flexibility, and production reliability.  
+By combining unified APIs, agentic workflows, and rich developer tooling, Genkit empowers developers to **build smarter, faster, and more scalable AI-powered applications.**
