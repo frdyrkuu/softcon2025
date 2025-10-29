@@ -1,6 +1,17 @@
-<h1 align="center">
-  SOFTCON 2025
-</h1>
+<p align="center">
+  <img src="https://softconph.com/wp-content/uploads/2025/06/SOFTCON-Logo-Final-no-tagline-Small.png">
+</p>
+
+<br/>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/nvidia-AI_agent-green">
+ <img src="https://img.shields.io/badge/watsonx-Orchestrate-blue">
+ <img src="https://img.shields.io/badge/openAI-gpt5-black">
+ <img src="https://img.shields.io/badge/CI%2FCD-pipeline-red">
+ <img src="https://img.shields.io/badge/Genkit-Firebase-orange">
+</p>
+
 
 
 # Table of Contents
