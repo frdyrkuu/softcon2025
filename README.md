@@ -61,7 +61,7 @@
     - [1. Assessing Your Skills](#1-assessing-your-skills)
     - [2. Assessing Tool Effectiveness](#2-assessing-tool-effectiveness)
   - [Key Takeaways](#key-takeaways)
-- [ Introduction to Genkit AI  ](#introduction-to-genkit-ai)
+- [ Dive with Genkit AI ](#introduction-to-genkit-ai)
   - [ Overview](#overview)
   - [ What is Genkit?](#what-is-genkit)
   - [ Origin and Evolution](#origin-and-evolution)
