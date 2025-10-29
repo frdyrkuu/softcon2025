@@ -596,12 +596,10 @@ The session concludes with a **two-part self-assessment checklist**, encouraging
 
 ---
 
-#  Introduction to Genkit AI  
-**(Also titled: Dive with Genkit AI)**  
+#  Dive with Genkit AI
 
 **Speaker:** Seiji Villafranca  
 **Event:** SOFTCON 2025  
-**Theme:** *Agentic Ignition – Powering the Future of Software*  
 **Topic:** Building AI-powered applications using Google's open-source Genkit framework.
 
 ---
